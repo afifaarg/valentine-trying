@@ -90,7 +90,7 @@ const ValentinePage = () => {
         {response === "yes" && (
           <div className="text-center">
             <img
-              src="https://i.pinimg.com/originals/f3/b4/da/f3b4da75946c9d1b2e0020918de6eca8.gif"
+              src="https://media.tenor.com/d2nnuVMvPbcAAAAj/milk-and-mocha-milk-and-mocha-bear.gif"
               alt="Happy GIF"
               className=" h-96 mx-auto "
             />
