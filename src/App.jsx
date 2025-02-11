@@ -12,7 +12,7 @@ function App() {
           <div className="mx-auto h-2/3 w-2/3 shadow-md bg-white rounded-2xl mt-20 flex flex-col align-center justify-center py-8">
             <div className="text-center">
               <h1 className="text-4xl font-bold text-center text-pink-600 mb-8 animate-blink">
-                💌 Some lover has a message for you! 💌
+                💌 Your baby has a message for you! 💌
               </h1>
               <button
                 onClick={() => setShowMainPage(true)}
